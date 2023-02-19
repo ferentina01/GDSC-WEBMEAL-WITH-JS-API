@@ -5,4 +5,4 @@ Website makanan yang berisi meal khas batak yang dibuat secara manual dengan htm
 <p>NIM : 59200357</p>
 <p>ID : 220020142</p>
 <p>Univ : Kwik kian Gie School Of bussiness</p>
--
+
